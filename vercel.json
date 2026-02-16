@@ -1,5 +1,6 @@
 {
-  "buildCommand": "npm install",
+  "outputDirectory": ".",
+  "buildCommand": "echo 'No build required'",
   "installCommand": "npm install",
   "functions": {
     "api/**/*.js": {
