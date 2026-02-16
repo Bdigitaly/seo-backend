@@ -1,4 +1,6 @@
 {
+  "buildCommand": "npm install",
+  "installCommand": "npm install",
   "functions": {
     "api/**/*.js": {
       "maxDuration": 30
