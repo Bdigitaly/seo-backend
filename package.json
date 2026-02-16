@@ -3,11 +3,10 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vercel dev"
+    "build": "echo 'No build required'"
   },
   "dependencies": {
-    "googleapis": "^140.0.2",
-    "jsonwebtoken": "^9.0.2",
-    "jose": "^5.2.0"
+    "googleapis": "^137.1.0",
+    "jsonwebtoken": "^9.0.2"
   }
 }
